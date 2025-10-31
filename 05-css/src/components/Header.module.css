@@ -1,0 +1,11 @@
+.card1{
+    background-color: blueviolet;
+    color:white;
+    text-align: center;
+    border: 2px solid pink;
+    outline: black;
+    border-radius: 20px;
+    text-decoration: double;
+    padding: 20px;
+    margin: 40px;
+}
