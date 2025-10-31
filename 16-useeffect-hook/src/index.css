@@ -1,0 +1,22 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+html,body{
+  height: 100%;
+  width: 100%;
+}
+h1{
+  color: tomato;
+}
+button{
+  margin: 20px;
+  padding: 20px;
+  border-radius: 20%;
+  background-color: tomato;
+  color: aliceblue;
+  text-decoration: solid;
+  font-weight: bolder;
+  font-size: large;
+}
